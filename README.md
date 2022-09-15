@@ -7,4 +7,4 @@ Hello, my name is Décio Carvalho Faria and i am a brazilian WEB developer 😀
 -----------------------------------------------------------------------------
 📚python libraries: Numpy, Pandas, Pyautogui, Random, Requests
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dec1o&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Dec1o](https://github-readme-stats.vercel.app/api/top-langs/?username=Dec1o&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
