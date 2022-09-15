@@ -6,5 +6,5 @@ Hello, my name is Décio Carvalho Faria and i am a brazilian WEB developer 😀
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 -----------------------------------------------------------------------------
 📚python libraries: Numpy, Pandas, Pyautogui, Random, Requests
-
+-----------------------------------------------------------------------------
 [![Dec1o](https://github-readme-stats.vercel.app/api/top-langs/?username=Dec1o&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
