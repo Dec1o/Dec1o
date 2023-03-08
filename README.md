@@ -1,4 +1,4 @@
-Hello, my name is Décio Carvalho Faria and i am a brazilian Full-Stack developer 😀
+Hello, my name is Décio Carvalho Faria and i am a brazilian Full-Stack Developer 😀
 -----------------------------------------------------------------------------
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decio-faria/)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
