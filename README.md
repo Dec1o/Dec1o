@@ -2,7 +2,7 @@
 <h2 align="center">Hello, my name is Décio Faria and i am a brazilian Full-Stack Developer:</h2>
  <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=git,js,css,html,python,java,spring" />
+    <img src="https://skillicons.dev/icons?i=git,js,css,html,python,java,spring,react" />
     <h3>Framework: Spring Boot</h3>
   </a>
 </p>
