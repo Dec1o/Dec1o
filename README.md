@@ -3,7 +3,7 @@
  <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=git,nodejs,js,css,html,python,java,spring,react,next" />
-    <h3>Frameworks: Spring Boot ReactJS and NextJS</h3>
+    <h3>Frameworks: Spring Boot, ReactJS and NextJS</h3>
   </a>
 </p>
 
