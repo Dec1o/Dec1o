@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello, my name is Décio Faria and i am a brazilian Full-Stack Developer:</h2>
+<h2 align="center">Hello, my name is Décio Faria and I'm a back-end developer:</h2>
  <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=git,nodejs,js,css,html,python,java,spring,react,next" />
