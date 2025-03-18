@@ -21,5 +21,3 @@
 - ✉️ deciofaria@email.com  
 
 ---
-
-🔍 Feel free to explore my repositories and contribute! 🚀
