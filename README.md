@@ -9,7 +9,7 @@
 ### 🚀 Main Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,dotnet,java,spring,nodejs,postgresql,mysql,aws,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,dotnet,java,nodejs,postgresql,mysql,aws,docker,git" />
 </p>
 
 <p align="center">
