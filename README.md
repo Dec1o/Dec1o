@@ -23,4 +23,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/decio-faria/)  
 - 📂 [GitHub](https://github.com/Dec1o)  
-- ✉️ deciofaria@
+- ✉️ deciocarvalhofaria@gmail.com
