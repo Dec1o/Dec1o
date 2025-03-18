@@ -9,7 +9,12 @@
 ### 🚀 Main Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,express,postgresql,mysql,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,dotnet,java,spring,nodejs,postgresql,mysql,aws,docker,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-LangChain-005571?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI%20Development-ffb400?style=flat&logo=openai&logoColor=black" />
 </p>
 
 ---
@@ -18,6 +23,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/decio-faria/)  
 - 📂 [GitHub](https://github.com/Dec1o)  
-- ✉️ deciofaria@email.com  
-
----
+- ✉️ deciofaria@
