@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LangChain-005571?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-AI%20Development-ffb400?style=flat&logo=openai&logoColor=black" />
 </p>
 
