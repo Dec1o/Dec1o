@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Décio Faria and I'm a Back-End developer 👋</h1>
+<h1 align="center">Hello, my name is Décio Faria and I'm a Software Engineer 👋</h1>
 
 <p align="center">
   Passionate about building scalable and efficient web solutions. My focus is back-end development, working primarily with high-performance APIs, robust systems, and artificial intelligence frameworks.
